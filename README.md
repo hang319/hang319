@@ -1,7 +1,14 @@
-## Hi there 👋
+## 关于我
+
+- 前端开发人员，积极的开源工作者。
+- [@alitajs/dform](https://github.com/alitajs/DynamicForm) 移动端动态表单库的仓库管理员。
+- [alita](https://github.com/alitajs/alita) 的辅助开发人员。
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hang1017&show_icons=true)
+
 
 <!--
-**hang319/hang319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hang1017/hang1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
